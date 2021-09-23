@@ -1,4 +1,4 @@
-# Digispark-Attiny85-IR-Relay
+# Digispark Attiny85 - IR control PC and Relay
 
 
 

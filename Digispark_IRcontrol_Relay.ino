@@ -5,7 +5,7 @@
 #define KEY_PAGE_UP 242//Code \ Код: 242 | Remote button \ Кнопка на пульте: << | Action \ Действие: PageUp
 #define KEY_PAGE_DOWN 240//Code \ Код: 240 | Remote button \ Кнопка на пульте: >> | Action \ Действие: pageDown
 #define KEY_SPACEBAR 252//Code \ Код: 252 | Remote button \ Кнопка на пульте: >= | Action \ Действие: SPACE  
-#define KEY_MUTE 246//Code \ Код: 246 | Remote button \ Кнопка на пульте: ch  | Action \ Действие: Mute Ctr + M
+#define KEY_MUTE 246//Code \ Код: 246 | Remote button \ Кнопка на пульте: CH  | Action \ Действие: Mute Ctr + M
 #define KEY_POWER 249//Code \ Код: 249 | Remote button \ Кнопка на пульте: EQ | Action \ Действие: On\Off
 #define KEY_F11K 251//Code \ Код: 251 | Remote button \ Кнопка на пульте: 200+ | Action \ Действие: F11
 #define KEY_ESC 243//Code \ Код: 243 | Remote button \ Кнопка на пульте: 1 | Action \ Действие: ESC
@@ -57,7 +57,6 @@ switch(result){
       case KEY_F11K: DigiKeyboard.sendKeyStroke(KEY_F11); break; //251  F11  display 200+
       case KEY_ESC: DigiKeyboard.sendKeyStroke(41); break; //243  ESC 1
       case KEY_EXIT: DigiKeyboard.sendKeyStroke(KEY_X , MOD_ALT_LEFT); break; //241  EXIT  ALT + X 2
-
       case KEY_TAB: DigiKeyboard.sendKeyStroke(43); break; //247  TAB  TAB 43 3
       case KEY_ENTER: DigiKeyboard.sendKeyStroke(40); break;//245  ENTER  ENTER 40 6
       case KEY_BACK: DigiKeyboard.sendKeyStroke(42); break;//244 Backspace  40 7

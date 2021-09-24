@@ -1,18 +1,18 @@
 #include "DigiKeyboard.h"
 
-#define KEY_A_DOWN 254//254 Кнопка -  VOL -
-#define KEY_A_UP 250//250 Кнопка +  VOL +
-#define KEY_PAGE_UP 242//242 Кнопка << PageUp
-#define KEY_PAGE_DOWN 240//240 Кнопка >> pageDown
-#define KEY_SPACEBAR 252//252 Кнопка пауза пробел  SPACE >= 
-#define KEY_MUTE 246//246 Кнопка Mute  ch
-#define KEY_POWER 249//249 Кнопка Включения/Выключения  EQ
-#define KEY_F11K 251//251  F11  display 200+
-#define KEY_ESC 243//243  ESC 1
-#define KEY_EXIT 241//241  EXIT  ALT + X 2
-#define KEY_TAB 247//247  TAB  TAB 43 3
-#define KEY_ENTER 245//245  ENTER  ENTER 40 6
-#define KEY_BACK 244//244  Backspace   42 7
+#define KEY_A_DOWN 254//Code \ Код: 254 | Remote button \ Кнопка на пульте: - | Action \ Действие: VOL - 
+#define KEY_A_UP 250//Code \ Код: 250 | Remote button \ Кнопка на пульте: + | Action \ Действие: VOL +
+#define KEY_PAGE_UP 242//Code \ Код: 242 | Remote button \ Кнопка на пульте: << | Action \ Действие: PageUp
+#define KEY_PAGE_DOWN 240//Code \ Код: 240 | Remote button \ Кнопка на пульте: >> | Action \ Действие: pageDown
+#define KEY_SPACEBAR 252//Code \ Код: 252 | Remote button \ Кнопка на пульте: >= | Action \ Действие: SPACE  
+#define KEY_MUTE 246//Code \ Код: 246 | Remote button \ Кнопка на пульте: ch  | Action \ Действие: Mute Ctr + M
+#define KEY_POWER 249//Code \ Код: 249 | Remote button \ Кнопка на пульте: EQ | Action \ Действие: On\Off
+#define KEY_F11K 251//Code \ Код: 251 | Remote button \ Кнопка на пульте: 200+ | Action \ Действие: F11
+#define KEY_ESC 243//Code \ Код: 243 | Remote button \ Кнопка на пульте: 1 | Action \ Действие: ESC
+#define KEY_EXIT 241//Code \ Код: 241 | Remote button \ Кнопка на пульте: 2 | Action \ Действие: EXIT  ALT + X
+#define KEY_TAB 247//Code \ Код: 247 | Remote button \ Кнопка на пульте: 3 | Action \ Действие: TAB  TAB
+#define KEY_ENTER 245//Code \ Код: 245 | Remote button \ Кнопка на пульте: 6 | Action \ Действие: ENTER  ENTER
+#define KEY_BACK 244//Code \ Код: 244 | Remote button \ Кнопка на пульте: 7 | Action \ Действие: Backspace 
 
 #define REL_PIN 0
 #define IR_PIN 2

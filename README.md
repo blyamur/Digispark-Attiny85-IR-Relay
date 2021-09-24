@@ -6,3 +6,5 @@
 [Digispark: Connecting and Programming Digispark](http://digistump.com/wiki/digispark/tutorials/connecting)
 
 [Digispark: Drivers](https://github.com/digistump/DigistumpArduino/releases/download/1.6.7/Digistump.Drivers.zip)
+
+Current code based on [Lepeshka92](https://github.com/Lepeshka92/DigiSparkIRKeyboard), [Post in Blog](https://lepeshka.wordpress.com/2018/07/31/arduino-digispark-attiny85-ir-пульт-ду/)

@@ -1,4 +1,4 @@
-Keymap Windows Keyboard Arduino Digispark
+Key codes from keyboard (Arduino, Digispark,Windows)
 
 	keyCode: 41
 	label: Esc

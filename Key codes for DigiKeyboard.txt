@@ -1,4 +1,4 @@
-Key codes from keyboard (Arduino, Digispark,Windows)
+Key codes for DigiKeyboard (Arduino, Digispark,Windows)
 
 	keyCode: 41
 	label: Esc

@@ -1,6 +1,10 @@
 # Digispark Attiny85 - IR control PC and Relay
 
 
+#### Article and diagram with connection:
+[https://blog.mons.ws/?p=4254](https://blog.mons.ws/?p=4254)
+
+
 
 #### Useful links and instructions:
 [Digispark: Connecting and Programming Digispark](http://digistump.com/wiki/digispark/tutorials/connecting)

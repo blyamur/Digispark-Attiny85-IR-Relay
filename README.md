@@ -15,6 +15,13 @@
 - Yandex.Station Mini
 - Yandex.Smart remote or analogs
 
+### General description
+
+![General description](https://github.com/blyamur/Digispark-Attiny85-IR-Relay/blob/main/images/general_description.jpg)
+
+### Connection options
+
+![Connection options](https://github.com/blyamur/Digispark-Attiny85-IR-Relay/blob/main/images/connection_options.jpg)
 
 
 #### Article and diagram with connection:

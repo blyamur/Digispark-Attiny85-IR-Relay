@@ -1,16 +1,16 @@
 # Digispark Attiny85 - IR control PC and Relay
 
 
-## The following components are required:
+#### The following components are required:
 
 - Digispark USB-A on ATtiny85
 - Kit: remote control and HX1838 receiver
 
-## Not necessary, it may only be required to turn off the PC
+#### Not necessary, it may only be required to turn off the PC
 
 - Relay module 1-channel 5V
 
-## Only needed for voice control:
+#### Only needed for voice control:
 
 - Yandex.Station Mini
 - Yandex.Smart remote or analogs

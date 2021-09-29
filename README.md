@@ -1,6 +1,22 @@
 # Digispark Attiny85 - IR control PC and Relay
 
 
+## The following components are required:
+
+- Digispark USB-A on ATtiny85
+- Kit: remote control and HX1838 receiver
+
+## Not necessary, it may only be required to turn off the PC
+
+- Relay module 1-channel 5V
+
+## Only needed for voice control:
+
+- Yandex.Station Mini
+- Yandex.Smart remote or analogs
+
+
+
 #### Article and diagram with connection:
 [https://blog.mons.ws/?p=4254](https://blog.mons.ws/?p=4254)
 
@@ -10,5 +26,7 @@
 [Digispark: Connecting and Programming Digispark](http://digistump.com/wiki/digispark/tutorials/connecting)
 
 [Digispark: Drivers](https://github.com/digistump/DigistumpArduino/releases/download/1.6.7/Digistump.Drivers.zip)
+
+[Latest version of DigiKeyboard.h](https://github.com/digistump/DigistumpArduino/blob/master/digistump-avr/libraries/DigisparkKeyboard/DigiKeyboard.h)
 
 Current code based on [Lepeshka92: GitHub-DigiSparkIRKeyboard](https://github.com/Lepeshka92/DigiSparkIRKeyboard), [Lepeshka92: Blog](https://lepeshka.wordpress.com/2018/07/31/arduino-digispark-attiny85-ir-пульт-ду/)

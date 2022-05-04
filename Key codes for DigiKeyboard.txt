@@ -127,11 +127,11 @@ Key codes for DigiKeyboard (Arduino, Digispark,Windows)
 	keyCode: 11,
 	label: H
 --
-keyCode: 13,
-label: J
+	keyCode: 13,
+	label: J
 --
-keyCode: 14,
-label: K
+	keyCode: 14,
+	label: K
 --
 	keyCode: 15,
 	label: L
@@ -186,3 +186,5 @@ label: K
 --
 	keyCode: 45,
 	label: -
+
+https://github.com/blyamur/Digispark-Attiny85-IR-Relay/

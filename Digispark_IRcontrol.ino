@@ -12,6 +12,9 @@
 #define KEY_TAB 247//Code \ Код: 247 | Remote button \ Кнопка на пульте: 3 | Action \ Действие: TAB  TAB
 #define KEY_ENTER 245//Code \ Код: 245 | Remote button \ Кнопка на пульте: 6 | Action \ Действие: ENTER  ENTER
 #define KEY_BACK 244//Code \ Код: 244 | Remote button \ Кнопка на пульте: 7 | Action \ Действие: Backspace 
+#define KEY_ARROW_UP        250
+#define KEY_ARROW_DOWN      254
+
 
 #define IR_PIN 2
 #define DATA_SIZE 20

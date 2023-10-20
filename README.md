@@ -41,7 +41,7 @@ Current code based on [Lepeshka92: GitHub-DigiSparkIRKeyboard](https://github.co
 
 ### Did you find this useful?! | Вы нашли это  полезным ?!
 
-Happy to hear that :) *If You want to help me, you can buy me a cup of coffee :coffee: ( [yoomoney](https://yoomoney.ru/to/41001158104834) or [ko-fi](ko-fi.com/monseg), [boosty.to](https://boosty.to/monseg) )*  
+Happy to hear that :) *If You want to help me, you can buy me a cup of coffee :coffee: ( [yoomoney](https://yoomoney.ru/to/41001158104834) or [ko-fi](https://ko-fi.com/monseg), [boosty.to](https://boosty.to/monseg) )* 
 
 > Рад это слышать :) Если вы хотите мне помочь, вы можете угостить меня чашечкой кофе 
 
